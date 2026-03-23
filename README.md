@@ -152,4 +152,27 @@ python -m pytest
 * Procesamiento eficiente con generadores
 * Bajo consumo de memoria
 * Código modular y escalable
-* Separación cl
+* Separación clara de responsabilidades
+* Preparado para ampliaciones (ETL, bases de datos, APIs)
+
+---
+
+## 🚀 Posibles mejoras futuras
+
+* Exportación a JSON o CSV
+* Integración con bases de datos (SQLite)
+* Interfaz web o API (Flask/FastAPI)
+* Dockerización del proyecto
+* Uso de pandas para análisis avanzado
+
+---
+
+## 👨‍💻 Autor
+
+Proyecto desarrollado como práctica profesional en Python orientada a:
+
+* Automatización
+* Procesamiento de datos
+* Ingeniería de datos (nivel inicial)
+
+---
